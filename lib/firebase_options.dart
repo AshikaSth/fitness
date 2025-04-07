@@ -41,7 +41,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCLERxfKdPJOCZzOizDYZpOflHJdfmK5yw',
+    apiKey: 'TYPE YOUR API KEY HERE',
     appId: '1:320070681555:web:6e38b355ac1dc2dd576526',
     messagingSenderId: '320070681555',
     projectId: 'fitness-cfbac',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCGehCUC8MJRr2fw7CkzUa9jWhBoFpCZjU',
+    apiKey: 'TYPE YOUR API KEY HERE',
     appId: '1:320070681555:android:06ad1099b5feb396576526',
     messagingSenderId: '320070681555',
     projectId: 'fitness-cfbac',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDkO0jHcIrvWk_BCLI72qODMejTLC08FAI',
+    apiKey: 'TYPE YOUR API KEY HERE',
     appId: '1:320070681555:ios:d20af0c896333c78576526',
     messagingSenderId: '320070681555',
     projectId: 'fitness-cfbac',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyDkO0jHcIrvWk_BCLI72qODMejTLC08FAI',
+    apiKey: 'TYPE YOUR API KEY HERE',
     appId: '1:320070681555:ios:d20af0c896333c78576526',
     messagingSenderId: '320070681555',
     projectId: 'fitness-cfbac',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCLERxfKdPJOCZzOizDYZpOflHJdfmK5yw',
+    apiKey: 'TYPE YOUR API KEY HERE',
     appId: '1:320070681555:web:36c0c8a2d5b4c74b576526',
     messagingSenderId: '320070681555',
     projectId: 'fitness-cfbac',
